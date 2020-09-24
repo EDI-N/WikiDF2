@@ -1,4 +1,4 @@
-API DOCFLOW
+**API DOCFLOW**
 ######################
 
 .. toctree::

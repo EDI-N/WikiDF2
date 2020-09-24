@@ -23,7 +23,7 @@
 
    Email використовується платформою як унікальний логін користувача (один Email можна використати лише одноразово). Після того як ви зареєструвалися та створили компанію за допомогою Gmail, якщо при авторизації ви виберете інший поштовий аккаунт  - на  платформі створиться новий аккаунт без налаштувань.
 
-Для реєстрації в сервісі перейдіть за посиланням http://doc.edi-n.com. У формі авторизації натисніть «Зареєструватися»:
+Для реєстрації в сервісі перейдіть за посиланням http://doc.edin.ua. У формі авторизації натисніть «Зареєструватися»:
 
 .. image:: pics_instruktsia-avtorizatsia/3_instruktsia_avtorizatsia_01.png
    :align: center
@@ -50,7 +50,7 @@
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_3.png
    :align: center
 
-Для підтвердження реєстрації перейдіть за посиланням у реєстраційному листі. Відправник листа - noreply@edi-n.com, тема – «EDIN-DOCFLOW Підтвердження реєстрації».  
+Для підтвердження реєстрації перейдіть за посиланням у реєстраційному листі. Відправник листа - noreply@edin.ua, тема – «EDIN-DOCFLOW Підтвердження реєстрації».  
 
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_4.png
    :align: center
@@ -100,7 +100,7 @@
 
 2 Авторизація
 --------------
-Для авторизації на платформі перейдіть за посиланням http://doc.edi-n.com/auth, введіть свій логін = Email та натисніть «Далі», або натисніть **Авторизація з Google** та виберіть пошту за допомогою якої ви реєструвалися: 
+Для авторизації на платформі перейдіть за посиланням http://doc.edin.ua/auth, введіть свій логін = Email та натисніть «Далі», або натисніть **Авторизація з Google** та виберіть пошту за допомогою якої ви реєструвалися: 
 
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_05.png
    :align: center
@@ -118,7 +118,7 @@
  
 У сервісі також реалізована можливість встановити інший строк блокування користувача (мінімальне значення – 3 хвилини, максимальне – 24 години) у межах  налаштування параметрів парольної політики. Детальніше про налаштування парольної політики в `«Інструкції адміністратора користувачів»`_.
 
-.. _«Інструкції адміністратора користувачів»: https://wiki.edi-n.com/ru/latest/services/EDIN_DOCflow/edin_docflow/instruktsia-administratora-polzovatelei.html
+.. _«Інструкції адміністратора користувачів»: https://wiki-df.edin.ua/ru/latest/services/EDIN_DOCflow/edin_docflow/instruktsia-administratora-polzovatelei.html
 
 3 Відновлення пароля 
 ---------------------
@@ -141,7 +141,7 @@
 У разі використання незареєстрованого Email система повідомить про помилку. 
 
 Наступним кроком перейдіть за посиланням у листі, отриманому на вказану адресу.  
-Відправник листа - noreply@edi-n.com, тема – «EDIN-DOCFLOW Відновлення пароля". 
+Відправник листа - noreply@edin.ua, тема – «EDIN-DOCFLOW Відновлення пароля". 
 
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_9.png
    :align: center
@@ -165,7 +165,7 @@
 .. image:: pics_instruktsia-avtorizatsia/instrktsuia_avtorizatsia_12.png
    :align: center
 
-Відправник: - noreply@edi-n.com. Тема листа: «EDIN-DOCFLOW Відновлення пароля».
+Відправник: - noreply@edin.ua. Тема листа: «EDIN-DOCFLOW Відновлення пароля».
 
 .. admonition:: Зверніть увагу!
 
@@ -196,6 +196,6 @@
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_16.png
    :align: center
 
-На стару адресу Email надійде інформаційне повідомлення про зміну електронної адреси. Відправник: - noreply@edi-n.com, тема листа: «EDIN-DOCFLOW. Відновлення пароля".
+На стару адресу Email надійде інформаційне повідомлення про зміну електронної адреси. Відправник: - noreply@edin.ua, тема листа: «EDIN-DOCFLOW. Відновлення пароля".
 
 .. include:: kontakti.rst
